@@ -1,9 +1,11 @@
 #Github Automated Analysis Project
+
 #objective
 *  To build a Python-based tool which, when given a GitHub user's URL/username,
    returns the most technically complex and challenging repository from that user's profile.
 
 #Introduction
+
 The following dependencies have been used in the project
 *   PyGithub
 *   openai
